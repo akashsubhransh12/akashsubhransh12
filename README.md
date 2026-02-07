@@ -1,127 +1,137 @@
-<!-- PROFILE BANNER -->
+<!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Akash%20Subhransh&fontSize=60&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Akash%20Subhransh&fontSize=60&fontAlignY=35&color=gradient&animation=fadeIn" />
 </p>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Full+Stack+Developer;AI+%26+Automation+Enthusiast;Turning+Ideas+Into+Scalable+Products;Welcome+To+My+Digital+Universe+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Backend+Developer;Cloud+%7C+CI%2FCD+%7C+Docker;Building+Scalable+Systems;Always+Learning+%26+Improving" />
 </p>
 
----
-
-## 🌈 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
-👋 Hi, I'm **Akash Subhransh**  
-💻 DevOps Engineer | Full-Stack Developer  
-🤖 AI-Powered Product Builder  
-🌍 India  
-
-✨ I love building **scalable platforms**, **AI-driven tools**, and **automation systems** that solve real-world problems.  
-🔥 My focus is on **clean architecture**, **performance**, and **great UI/UX**.
-
----
-
-## 🤖 AI Agent – Quick Connect Chatbot
-
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250"/>
-</p>
-
-🧠 **Meet my AI Assistant**  
-- 💬 Instantly answer queries about my projects  
-- ⚡ Quick connect for collaborations  
-- 🤝 Smart responses powered by AI  
-
-📌 *Integrated directly into my portfolio website*
-
-👉 **Try it here:**  
-🔗 https://akashsubhransh.vercel.app/
-
----
-
-## 🚀 Featured Projects (LIVE & WORKING)
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212284068-4b7a7c1b-7a8c-4f9c-b6c4-0c38eebc6f7d.gif" width="100"><br>
-<b>Smart Ticketing System</b><br>
-🎫 AI-based Public Transport System<br><br>
-<a href="https://smart-ticketing-system.vercel.app/">🔗 Live Demo</a>
-</td>
-
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-63a8a9c3-7c65-4c20-bdf1-4b7c9b9dc3c4.gif" width="100"><br>
-<b>EduVerse Hub</b><br>
-📚 Smart Learning Platform<br><br>
-<a href="https://eduversehub.vercel.app/">🔗 Live Demo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284091-1b8b9f55-8a64-4db0-9e4c-4c36bde37c93.gif" width="100"><br>
-<b>Power Smash</b><br>
-⚡ High-Performance Web App<br><br>
-<a href="https://power-smash.vercel.app/">🔗 Live Demo</a>
-</td>
-
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284061-ecbe74b0-fb6b-4b45-a0bb-dca6f47a38c3.gif" width="100"><br>
-<b>TryIt App</b><br>
-🧪 Experiment & Testing Platform<br><br>
-<a href="https://www.tryitapp.in/">🔗 Live Demo</a>
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Tech Stack & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,html,css,js,python,docker,kubernetes,aws,linux,git,github,mysql,mongodb&perline=8" />
+  <img src="https://img.shields.io/github/followers/akashsubhransh12?style=for-the-badge&color=00f7ff" />
+  <img src="https://img.shields.io/github/stars/akashsubhransh12?style=for-the-badge&color=ff00ff" />
+  <img src="https://img.shields.io/badge/Dark%20Theme-Enabled-black?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics (WORKING IMAGES)
+## 👨‍💻 About Me
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AkashSubhransh&show_icons=true&theme=radical" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSubhransh&theme=radical" />
+Hi 👋 I’m **Akash Subhransh**, a **B.Tech Engineering student at Chandigarh University**  
+with a strong passion for **DevOps, Backend Engineering, Automation, and Cloud Infrastructure**.
+
+I love building:
+- ⚙️ Real-world backend systems  
+- 🚀 Automated CI/CD pipelines  
+- 🐳 Containerized applications  
+- ☁️ Cloud-ready architectures  
+
+🎯 **Goal:** Become a production-grade **DevOps / Backend Engineer**
+
+---
+
+## 🧠 Current Focus
+
+- Docker & Docker Compose
+- GitHub Actions (CI/CD)
+- Kubernetes fundamentals
+- Spring Boot & Node.js APIs
+- Infrastructure thinking & automation
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
 </p>
 
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSubhransh&layout=compact&theme=radical" />
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" />
+</p>
+
+### 🚀 DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions&theme=dark" />
+</p>
+
+### 🗄 Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,postman,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 🚀 Featured Live Projects (WITH WORKING PREVIEWS)
+
+> 🔥 These are **real deployed projects**, not dummy repos
+
+### 🔹 TryIt App
+[![TryIt](https://image.thum.io/get/width/700/https://www.tryitapp.in/)](https://www.tryitapp.in/)
+
+---
+
+### 🔹 Power Smash
+[![Power Smash](https://image.thum.io/get/width/700/https://power-smash.vercel.app/)](https://power-smash.vercel.app/)
+
+---
+
+### 🔹 Portfolio (Main)
+[![Portfolio](https://image.thum.io/get/width/700/https://akashsubhransh.vercel.app/)](https://akashsubhransh.vercel.app/)
+
+---
+
+### 🔹 Smart Ticketing System
+[![Smart Ticketing](https://image.thum.io/get/width/700/https://smart-ticketing-system.vercel.app/)](https://smart-ticketing-system.vercel.app/)
+
+---
+
+### 🔹 EduVerse Hub
+[![EduVerse Hub](https://image.thum.io/get/width/700/https://eduversehub.vercel.app/)](https://eduversehub.vercel.app/)
+
+---
+
+## 📊 GitHub Statistics (DARK · WORKING)
 
 <p align="center">
-<a href="mailto:subhranshakash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://akashsubhransh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=akashsubhransh12&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akashsubhransh12&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsubhransh12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Animation (Dark)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-<!-- FOOTER -->
+## 🤖 Quick Connect (AI-Style)
+
+💬 **Want to collaborate, hire, or discuss ideas?**  
+Reach out instantly:
+
+- 📧 **Email:** subhranshakash@gmail.com  
+- 🌐 **Portfolio:** https://akashsubhransh.vercel.app  
+- 🧑‍💻 **GitHub:** https://github.com/akashsubhransh12  
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=Thanks%20for%20Visiting!&fontSize=28" />
 </p>
 
-✨ **“Build with passion. Deploy with confidence. Scale with AI.”** 🚀
+<p align="center">
+  <strong>⚡ “Build systems that work, scale, and last.”</strong>
+</p>
