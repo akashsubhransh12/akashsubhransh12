@@ -1,80 +1,79 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== HERO CARTOON HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Akash%20Subhransh&fontSize=60&fontAlignY=35&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Akash%20Subhransh&fontSize=65&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+in+Progress;Backend+Developer;Docker+%7C+CI%2FCD+%7C+Cloud;Building+Production-Ready+Systems;Open+to+Internships+%26+Roles" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Developer-00f7ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Backend+Developer;Docker+%7C+CI%2FCD+%7C+Cloud;Building+Real+Production+Systems;Open+to+Opportunities" />
 </p>
 
 ---
 
-## 👨‍💼 Recruiter Snapshot (READ THIS 👀)
+## 👨‍💻 About Me (Cartoon Style)
 
-**Name:** Akash Subhransh  
-**Role:** DevOps / Backend Engineer (Entry–Mid Level)  
-**Education:** B.Tech – Chandigarh University  
-**Strengths:** Automation, CI/CD, Containers, Backend APIs  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
 
-💡 *I focus on building systems that are deployable, scalable, and maintainable — not just demo projects.*
+Hi 👋 I’m **Akash Subhransh**, a **DevOps & Backend Engineer** who loves  
+⚙ automation • 🚀 deployment • 🐳 containers • ☁️ cloud systems  
+
+I focus on **how software runs in real life**, not just how it looks.
 
 ---
 
-## 🧠 About Me
+## 🎯 Recruiter Snapshot
 
-I’m a passionate **DevOps & Backend Engineer** who enjoys:
-- Automating deployments
-- Writing clean backend APIs
-- Containerizing applications
-- Learning how real production systems scale
-
-🎯 **Career Goal:**  
-To work in a team where I can **build, deploy, monitor, and improve real-world systems**.
+- 🎓 **B.Tech – Chandigarh University**
+- 🧠 Strong in **Linux, Git, Docker, CI/CD**
+- 🔧 Backend with **Java, Spring, Node.js**
+- 🚀 Goal: Build **scalable & automated systems**
 
 ---
 
-## 🛠 Tech Stack (Cartoon + Color Style)
+## 🛠 Tech Stack (Cartoon + Neon)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,nodejs&theme=dark" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions&theme=dark" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,postman,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🧭 DevOps Roadmap (Visual Learning Path)
+## 🧭 DevOps Roadmap (Animated Journey)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/milanm/DevOps-Roadmap/master/images/devops-roadmap.svg" />
 </p>
 
-🔹 **My Progress**
-- ✅ Linux & Git fundamentals  
-- ✅ Docker & container basics  
-- ✅ CI/CD with GitHub Actions  
-- 🔄 Kubernetes (in progress)  
-- 🔜 Cloud (AWS basics)
+✔ Linux & Git  
+✔ Docker & Containers  
+✔ CI/CD Pipelines  
+🔄 Kubernetes  
+🔜 AWS & Monitoring  
 
 ---
 
-## 🚀 Featured Live Projects (WITH PREVIEW)
+## 🚀 Live Projects (Animated Previews)
 
 ### 🌐 TryIt App
 [![TryIt](https://image.thum.io/get/width/800/https://www.tryitapp.in/)](https://www.tryitapp.in/)
@@ -82,18 +81,18 @@ To work in a team where I can **build, deploy, monitor, and improve real-world s
 ### 🎮 Power Smash
 [![Power Smash](https://image.thum.io/get/width/800/https://power-smash.vercel.app/)](https://power-smash.vercel.app/)
 
-### 🧑‍💻 Portfolio Website
+### 🧑‍💻 Portfolio
 [![Portfolio](https://image.thum.io/get/width/800/https://akashsubhransh.vercel.app/)](https://akashsubhransh.vercel.app/)
 
-### 🚍 Smart Ticketing System
-[![Smart Ticketing](https://image.thum.io/get/width/800/https://smart-ticketing-system.vercel.app/)](https://smart-ticketing-system.vercel.app/)
+### 🚍 Smart Ticketing
+[![Ticketing](https://image.thum.io/get/width/800/https://smart-ticketing-system.vercel.app/)](https://smart-ticketing-system.vercel.app/)
 
 ### 🎓 EduVerse Hub
-[![EduVerse Hub](https://image.thum.io/get/width/800/https://eduversehub.vercel.app/)](https://eduversehub.vercel.app/)
+[![EduVerse](https://image.thum.io/get/width/800/https://eduversehub.vercel.app/)](https://eduversehub.vercel.app/)
 
 ---
 
-## 📊 GitHub Statistics (Dark · Stable)
+## 📊 GitHub Stats (Dark + Working)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashsubhransh12&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -109,7 +108,7 @@ To work in a team where I can **build, deploy, monitor, and improve real-world s
 
 ---
 
-## 🐍 Contribution Animation
+## 🐍 Contribution Snake (Animated)
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
@@ -117,24 +116,28 @@ To work in a team where I can **build, deploy, monitor, and improve real-world s
 
 ---
 
-## 🤖 Quick Connect (Chatbot Style)
+## 🤖 Chatbot & Quick Connect
 
-💬 **Talk to Me Instantly**
-- 🤖 AI Chat (Portfolio):  
-  👉 https://akashsubhransh.vercel.app  
-- 📧 Email: **subhranshakash@gmail.com**
-- 🧑‍💻 GitHub: https://github.com/akashsubhransh12
+<p align="center">
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="300"/>
+</p>
+
+💬 **Talk to my AI Assistant**  
+👉 https://akashsubhransh.vercel.app  
+
+📧 **Email:** subhranshakash@gmail.com  
+🐙 **GitHub:** https://github.com/akashsubhransh12  
 
 ---
 
-## 🌐 Convert This Into Portfolio Website
+## 🌐 Convert This to Portfolio Website
 
-✅ This README is already structured like a **landing page**  
-You can directly convert it into:
-- React / Next.js portfolio
-- Single-page DevOps resume site
+This README is already:
+✅ Landing-page structured  
+✅ Recruiter-optimized  
+✅ DevOps-focused  
 
-👉 **Next step:** reuse sections as components.
+➡ Can be converted to **React / Next.js** easily.
 
 ---
 
@@ -143,5 +146,5 @@ You can directly convert it into:
 </p>
 
 <p align="center">
-  <strong>⚡ Build systems that work. Automate what matters.</strong>
+  <strong>⚡ Automate Everything • Build Real Systems</strong>
 </p>
