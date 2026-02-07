@@ -1,155 +1,166 @@
-<!-- ================= HERO HEADER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Akash%20Subhransh&fontSize=58&fontAlignY=35" />
-</p>
+<!-- HERO SECTION -->
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#4CAF50;">Akash Subhransh</span>
+</h1>
+
+<h3 align="center">
+🚀 DevOps Engineer | Full-Stack Developer | AI-Driven Builder  
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=850&lines=DevOps+Engineer;Backend+Developer;Cloud+%26+Infrastructure+Enthusiast;CI%2FCD+Automation+Specialist;AI+Driven+Engineering+Mindset" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;Cloud+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Building+AI+Powered+Products+%F0%9F%A4%96" />
 </p>
+
+---
+
+## 🌙 Auto Dark / Light Mode Badge
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Auto%20Dark%20%7C%20Light-blue?style=for-the-badge" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **DevOps, Cloud & AI Automation**
+- 🌱 Learning **Kubernetes, Terraform & MLOps**
+- 🧠 Passionate about **AI Agents & System Design**
+- 🛠 Building scalable apps using **React, Node, Java, Spring Boot**
+- 💬 Ask me about **DevOps, CI/CD, Docker, Cloud, Full-Stack**
+- ⚡ Motto: *Automate everything that can be automated*
+
+---
+
+## 🤖 AI Assistant (Quick Connect)
+
+> 💡 **AI Agent for Quick Connect**  
+Click below to instantly connect with me 👇
 
 <p align="center">
-  <b>⚙️ Building systems • Automating workflows • Engineering reliability</b>
+  <a href="https://subhranshakash.vercel.app/">
+    <img src="https://img.shields.io/badge/🤖%20AI%20Chatbot-Connect%20Now-brightgreen?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-## 👋 About Me
+## 🧰 Tech Stack
 
-Hi, I’m **Akash Subhransh**, a **B.Tech Engineering student at Chandigarh University** with a strong passion for:
-
-- 🚀 DevOps Engineering  
-- ⚙️ Backend Development  
-- ☁️ Cloud & Infrastructure  
-- 🤖 Automation & AI-assisted systems  
-
-I focus on **building scalable, reliable, and production-ready systems**, not just academic projects.  
-I believe engineering is about **systems thinking**, not only writing code.
-
----
-
-## 🧠 Engineering Philosophy
-
-- 🧩 *Automate everything that can be automated*  
-- 📦 *Containerize before you scale*  
-- 🔐 *Security is not optional*  
-- 📊 *If you can’t monitor it, you can’t trust it*  
-
----
-
-## 🎯 Current Focus Areas
-
-- CI/CD pipelines using **GitHub Actions**
-- Containerization with **Docker**
-- Kubernetes fundamentals
-- Backend APIs using **Spring Boot & Node.js**
-- Linux, Bash & infrastructure basics
-- AI-assisted developer workflows
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming Languages
+### 🚀 DevOps & Cloud
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,terraform,git,github,nginx" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### 💻 Backend & Programming
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,python,spring,express" />
 </p>
 
-### 🚀 DevOps & Infrastructure
+### 🌐 Frontend
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,tailwind" />
 </p>
 
-### 🗄 Databases & Tools
+### 🗄 Databases
 <p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsubhransh12&repo=smart-transport-ticketing-system" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsubhransh12&repo=devops-playground" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsubhransh12&repo=ethical-hacking-modules" />
+### 🔹 TryIt App
+🔗 https://www.tryitapp.in/  
+<p>
+  <img src="https://img.shields.io/badge/LIVE-PROJECT-success?style=for-the-badge">
 </p>
 
 ---
 
-## 🤖 AI Agent – Quick Connect (Concept)
-
-> ⚠️ GitHub does not allow live chatbots inside README.  
-> This section acts as a **Smart AI-style contact hub**.
-
-### 🔹 How the “AI Agent” Helps
-- 📩 Instantly connect with me
-- 💬 Ask about my projects
-- 🤝 Collaboration & opportunities
-- 🚀 Faster communication
-
-### 🔗 Quick Connect Buttons
+### 🔹 Power Smash
+🔗 https://power-smash.vercel.app/
 <p>
+  <img src="https://img.shields.io/badge/React-Game-blue?style=for-the-badge">
+</p>
+
+---
+
+### 🔹 Smart Ticketing System
+🔗 https://smart-ticketing-system.vercel.app/
+<p>
+  <img src="https://img.shields.io/badge/IoT+%2B+Web-System-orange?style=for-the-badge">
+</p>
+
+---
+
+### 🔹 EduVerse Hub
+🔗 https://eduversehub.vercel.app/
+<p>
+  <img src="https://img.shields.io/badge/Education-Tech-green?style=for-the-badge">
+</p>
+
+---
+
+### 🔹 Portfolio Websites
+- https://akashsubhransh.vercel.app/
+- https://subhranshakash.vercel.app/
+
+<p>
+  <img src="https://img.shields.io/badge/Portfolio-Live-blueviolet?style=for-the-badge">
+</p>
+
+---
+
+## 📊 GitHub Statistics (WORKING)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashsubhransh12&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsubhransh12&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsubhransh12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph (Animated)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashsubhransh12&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://akashsubhransh.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+  </a>
   <a href="mailto:subhranshakash@gmail.com">
-    <img src="https://img.shields.io/badge/Email-AI%20Agent-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/akashsubhransh12">
-    <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+---
 
-📌 *Future Plan:* Deploy an AI chatbot on my portfolio site and link it here.
+## 💡 DevOps Philosophy
+
+> **“If it’s repeatable — automate it.  
+If it’s scalable — containerize it.  
+If it’s critical — monitor it.”**
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashsubhransh12&show_icons=true&count_private=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsubhransh12&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashsubhransh12&theme=default" />
-</p>
-
----
-
-## 🧭 Career Goal
-
-🎯 To become a **high-impact DevOps / Backend Engineer**  
-working on **scalable infrastructure, cloud-native systems, and AI-powered automation**.
-
----
-
-<p align="center">
-  <b>⚡ “Don’t just write code. Engineer systems.”</b>
-</p>
+<h2 align="center">
+✨ Thanks for visiting my GitHub Profile ✨  
+Let’s build something powerful together 🚀
+</h2>
