@@ -1,67 +1,126 @@
-<!-- 3D Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Akash%20Subhra&fontSize=48&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Backend%20Developer&descAlignY=55)
-
-<!-- Typing Animation -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=DevOps+Engineer;Backend+Developer;Docker+%7C+Kubernetes;CI%2FCD+Automation;Cloud+Learner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Akash%20Subhra&fontSize=55&fontAlignY=35&color=gradient" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Backend+Developer;Docker+%7C+Kubernetes;CI%2FCD+Automation;Cloud+and+Infrastructure+Learner" />
 </p>
 
 ---
 
 ## 👋 About Me
-I’m **Akash Subhra**, a B.Tech student at Chandigarh University focused on  
-**DevOps engineering, backend development, and automation**.  
-I enjoy building scalable applications and reliable infrastructure.
+
+Hello! I’m **Akash Subhransh**, a **B.Tech Engineering student at Chandigarh University** with a strong interest in  
+**DevOps engineering, backend development, automation, and scalable systems**.
+
+I enjoy:
+- Building backend services  
+- Automating deployments  
+- Working with containers & CI/CD  
+- Understanding how real production systems work  
+
+My goal is to become a **skilled DevOps / Backend Engineer** working on real-world infrastructure and cloud systems.
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,spring,docker,kubernetes,linux,git,githubactions,mysql,mongodb" />
+## 🧠 What I’m Focused On Right Now
+
+- 🚀 Building DevOps pipelines using **GitHub Actions**
+- 🐳 Containerizing applications with **Docker**
+- ☸️ Learning **Kubernetes** fundamentals
+- ⚙️ Backend APIs with **Spring Boot & Node.js**
+- 📦 Writing clean, documented, production-style code
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+### 🚀 DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions" />
+</p>
+
+### 🗄 Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,postman,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+
 <p align="center">
-  <a href="https://github.com/akashsubhransh12/smart-transport-ticketing-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsubhransh12&repo=smart-transport-ticketing-system&theme=tokyonight" />
+  <a href="https://github.com/akashsubhransh12">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsubhransh12&repo=smart-transport-ticketing-system&theme=react" />
   </a>
-  <a href="https://github.com/akashsubhransh12/devops-playground">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsubhransh12&repo=devops-playground&theme=tokyonight" />
+  <a href="https://github.com/akashsubhransh12">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsubhransh12&repo=devops-playground&theme=react" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/akashsubhransh12/ethical-hacking-modules">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsubhransh12&repo=ethical-hacking-modules&theme=tokyonight" />
+  <a href="https://github.com/akashsubhransh12">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsubhransh12&repo=ethical-hacking-modules&theme=react" />
   </a>
-  <a href="https://github.com/akashsubhransh12/iot-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsubhransh12&repo=iot-projects&theme=tokyonight" />
+  <a href="https://github.com/akashsubhransh12">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsubhransh12&repo=iot-projects&theme=react" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats (Auto Dark/Light)
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=akashsubhransh12&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=akashsubhransh12&show_icons=true&theme=default"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=akashsubhransh12&show_icons=true" />
-</picture>
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashsubhransh12&show_icons=true&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsubhransh12&theme=react&hide_border=true" />
+</p>
 
 ---
 
-## 🔥 Contribution Activity (3D)
-![3D Contributions](https://github.com/akashsubhransh12/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-night-green.svg)
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashsubhransh12&theme=github_dark" />
+</p>
+
+---
+
+## 🧩 DevOps Playground (Highlight)
+
+I maintain a **DevOps Playground** repository where I practice:
+
+- Docker & Docker Compose  
+- GitHub Actions CI/CD  
+- Kubernetes YAML files  
+- Bash automation scripts  
+- Monitoring basics  
+
+📌 This repo reflects **real DevOps workflows**, not just theory.
 
 ---
 
 ## 📫 Connect With Me
-📧 **subhranshakash@gmail.com**
+
+- 📧 **Email:** subhranshakash@gmail.com  
+- 💻 **GitHub:** https://github.com/akashsubhransh12  
+
+---
+
+<p align="center">
+  <strong>⚡ “Consistency beats talent when talent doesn’t work consistently.”</strong>
+</p>
