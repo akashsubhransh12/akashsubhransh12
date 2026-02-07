@@ -1,99 +1,99 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Akash%20Subhransh&fontSize=60&fontAlignY=35&color=gradient&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Akash%20Subhransh&fontSize=60&fontAlignY=35&color=gradient" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Backend+Developer;Cloud+%7C+CI%2FCD+%7C+Docker;Building+Scalable+Systems;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+in+Progress;Backend+Developer;Docker+%7C+CI%2FCD+%7C+Cloud;Building+Production-Ready+Systems;Open+to+Internships+%26+Roles" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/akashsubhransh12?style=for-the-badge&color=00f7ff" />
-  <img src="https://img.shields.io/github/stars/akashsubhransh12?style=for-the-badge&color=ff00ff" />
-  <img src="https://img.shields.io/badge/Dark%20Theme-Enabled-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-Engineer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Developer-00f7ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💼 Recruiter Snapshot (READ THIS 👀)
 
-Hi 👋 I’m **Akash Subhransh**, a **B.Tech Engineering student at Chandigarh University**  
-with a strong passion for **DevOps, Backend Engineering, Automation, and Cloud Infrastructure**.
+**Name:** Akash Subhransh  
+**Role:** DevOps / Backend Engineer (Entry–Mid Level)  
+**Education:** B.Tech – Chandigarh University  
+**Strengths:** Automation, CI/CD, Containers, Backend APIs  
 
-I love building:
-- ⚙️ Real-world backend systems  
-- 🚀 Automated CI/CD pipelines  
-- 🐳 Containerized applications  
-- ☁️ Cloud-ready architectures  
-
-🎯 **Goal:** Become a production-grade **DevOps / Backend Engineer**
+💡 *I focus on building systems that are deployable, scalable, and maintainable — not just demo projects.*
 
 ---
 
-## 🧠 Current Focus
+## 🧠 About Me
 
-- Docker & Docker Compose
-- GitHub Actions (CI/CD)
-- Kubernetes fundamentals
-- Spring Boot & Node.js APIs
-- Infrastructure thinking & automation
+I’m a passionate **DevOps & Backend Engineer** who enjoys:
+- Automating deployments
+- Writing clean backend APIs
+- Containerizing applications
+- Learning how real production systems scale
+
+🎯 **Career Goal:**  
+To work in a team where I can **build, deploy, monitor, and improve real-world systems**.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack (Cartoon + Color Style)
 
-### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
 </p>
 
-### ⚙️ Backend & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" />
 </p>
 
-### 🚀 DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions&theme=dark" />
 </p>
 
-### 🗄 Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,postman,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Featured Live Projects (WITH WORKING PREVIEWS)
+## 🧭 DevOps Roadmap (Visual Learning Path)
 
-> 🔥 These are **real deployed projects**, not dummy repos
+<p align="center">
+  <img src="https://raw.githubusercontent.com/milanm/DevOps-Roadmap/master/images/devops-roadmap.svg" />
+</p>
 
-### 🔹 TryIt App
-[![TryIt](https://image.thum.io/get/width/700/https://www.tryitapp.in/)](https://www.tryitapp.in/)
-
----
-
-### 🔹 Power Smash
-[![Power Smash](https://image.thum.io/get/width/700/https://power-smash.vercel.app/)](https://power-smash.vercel.app/)
-
----
-
-### 🔹 Portfolio (Main)
-[![Portfolio](https://image.thum.io/get/width/700/https://akashsubhransh.vercel.app/)](https://akashsubhransh.vercel.app/)
+🔹 **My Progress**
+- ✅ Linux & Git fundamentals  
+- ✅ Docker & container basics  
+- ✅ CI/CD with GitHub Actions  
+- 🔄 Kubernetes (in progress)  
+- 🔜 Cloud (AWS basics)
 
 ---
 
-### 🔹 Smart Ticketing System
-[![Smart Ticketing](https://image.thum.io/get/width/700/https://smart-ticketing-system.vercel.app/)](https://smart-ticketing-system.vercel.app/)
+## 🚀 Featured Live Projects (WITH PREVIEW)
+
+### 🌐 TryIt App
+[![TryIt](https://image.thum.io/get/width/800/https://www.tryitapp.in/)](https://www.tryitapp.in/)
+
+### 🎮 Power Smash
+[![Power Smash](https://image.thum.io/get/width/800/https://power-smash.vercel.app/)](https://power-smash.vercel.app/)
+
+### 🧑‍💻 Portfolio Website
+[![Portfolio](https://image.thum.io/get/width/800/https://akashsubhransh.vercel.app/)](https://akashsubhransh.vercel.app/)
+
+### 🚍 Smart Ticketing System
+[![Smart Ticketing](https://image.thum.io/get/width/800/https://smart-ticketing-system.vercel.app/)](https://smart-ticketing-system.vercel.app/)
+
+### 🎓 EduVerse Hub
+[![EduVerse Hub](https://image.thum.io/get/width/800/https://eduversehub.vercel.app/)](https://eduversehub.vercel.app/)
 
 ---
 
-### 🔹 EduVerse Hub
-[![EduVerse Hub](https://image.thum.io/get/width/700/https://eduversehub.vercel.app/)](https://eduversehub.vercel.app/)
-
----
-
-## 📊 GitHub Statistics (DARK · WORKING)
+## 📊 GitHub Statistics (Dark · Stable)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashsubhransh12&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -109,7 +109,7 @@ I love building:
 
 ---
 
-## 🐍 Contribution Animation (Dark)
+## 🐍 Contribution Animation
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
@@ -117,14 +117,24 @@ I love building:
 
 ---
 
-## 🤖 Quick Connect (AI-Style)
+## 🤖 Quick Connect (Chatbot Style)
 
-💬 **Want to collaborate, hire, or discuss ideas?**  
-Reach out instantly:
+💬 **Talk to Me Instantly**
+- 🤖 AI Chat (Portfolio):  
+  👉 https://akashsubhransh.vercel.app  
+- 📧 Email: **subhranshakash@gmail.com**
+- 🧑‍💻 GitHub: https://github.com/akashsubhransh12
 
-- 📧 **Email:** subhranshakash@gmail.com  
-- 🌐 **Portfolio:** https://akashsubhransh.vercel.app  
-- 🧑‍💻 **GitHub:** https://github.com/akashsubhransh12  
+---
+
+## 🌐 Convert This Into Portfolio Website
+
+✅ This README is already structured like a **landing page**  
+You can directly convert it into:
+- React / Next.js portfolio
+- Single-page DevOps resume site
+
+👉 **Next step:** reuse sections as components.
 
 ---
 
@@ -133,5 +143,5 @@ Reach out instantly:
 </p>
 
 <p align="center">
-  <strong>⚡ “Build systems that work, scale, and last.”</strong>
+  <strong>⚡ Build systems that work. Automate what matters.</strong>
 </p>
