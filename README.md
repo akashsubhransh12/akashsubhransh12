@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akash Subhra
+# Hi 👋, I'm Akash Subhransh
 
 🚀 DevOps Engineer | Backend Developer | B.Tech @ Chandigarh University  
 
